@@ -1,6 +1,10 @@
+![Desktop preview](public/desktop.png)
+
+![Mobile preview](public/mobile.png)
+
 Привет, меня зовут Алексей, и я фронтенд-разработчик с горячей страстью к обучению и созданию.
 
-Мой стек технологий:
+Мой стек:
 
 JavaScript ES6+
 React JS, React Router

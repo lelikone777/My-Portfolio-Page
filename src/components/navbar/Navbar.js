@@ -13,7 +13,7 @@ function Navbar() {
                 <div className="nav-row">
 
                     <NavLink to='/' className="logo">
-                        <strong>Freelancer</strong>
+                        <strong>MyPage</strong>
                     </NavLink >
 
                     <ButtonDarkMode/>
