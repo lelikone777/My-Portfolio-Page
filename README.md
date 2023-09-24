@@ -1,6 +1,14 @@
+# [Portfolio Project](https://portfolio-project-r23g15u5g-lelikone777.vercel.app/)
+
 ![Desktop preview](public/desktop.png)
 
 ![Mobile preview](public/mobile.png)
+
+Проект разработан на React.
+- React Router 
+- Смена тем 
+- Карточки проектов
+
 
 Привет, меня зовут Алексей, и я фронтенд-разработчик с горячей страстью к обучению и созданию.
 
@@ -9,7 +17,7 @@
 JavaScript ES6+
 React JS, React Router
 Redux, Redux Toolkit, React Query
-NextJS 13+
+Next.js 13+
 Webpack, Vite
 SCSS/SASS, Tailwind, Bootstrap 5
 
@@ -29,7 +37,7 @@ My Tech Stack:
 JavaScript ES6+
 React JS, React Router
 Redux, Redux Toolkit, React Query
-NextJS 13+
+Next.js 13+
 Webpack, Vite
 SCSS/SASS, Tailwind, Bootstrap 5
 
